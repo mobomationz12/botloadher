@@ -6,10 +6,3 @@ pillow
 mutagen
 requests
 rubika
---upgrade rubika
---upgrade requests 
---upgrade gtts
---upgrade mutagen
---upgrade pillow
---upgrade re
---upgrade googletrans
