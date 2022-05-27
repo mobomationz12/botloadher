@@ -1,0 +1,9 @@
+pip
+re
+googletrans
+gtts
+pillow
+mutagen
+requests
+rubika
+--upgrade
