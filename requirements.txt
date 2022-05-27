@@ -1,4 +1,4 @@
-pip
+
 re
 googletrans
 gtts
@@ -6,4 +6,10 @@ pillow
 mutagen
 requests
 rubika
---upgrade
+--upgrade rubika
+--upgrade requests 
+--upgrade gtts
+--upgrade mutagen
+--upgrade pillow
+--upgrade re
+--upgrade googletrans
